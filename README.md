@@ -11,8 +11,7 @@ This is a huddle landing page with curved sections master.
 ### Links
 
 - Solution URL: [Click to visit](https://www.frontendmentor.io/solutions/huddle-landing-curved-sections-using-css-grid-and-flexbox--dMtJ5Dh9x)
-- Live Site URL: [Click to visit](https://fm-huddle-landing-curved-sections.vercel.app/)
-- 
+- Live Site URL: [Click to visit](https://fm-huddle-landing-curved-sections.vercel.app/)- 
 ### Screenshot
 
 ![Desktop View](./website-view/desktop.png)
