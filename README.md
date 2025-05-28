@@ -17,6 +17,11 @@ This is a huddle landing page with curved sections master.
 ![Desktop View](./website-view/desktop.png)
 ![Phone View](./website-view/phone.png)
 
+### Links
+
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-curved-sections-using-css-grid-and-flexbox--dMtJ5Dh9x)
+- Live Site URL: [Vercel](https://fm-huddle-landing-curved-sections.vercel.app/)
+
 ## My process
 
 ### Built with
@@ -37,4 +42,6 @@ If you continue your learning. You can gain more faster work experience for your
 ## Author
 
 - Frontend Mentor - [@sohanurshadhin](https://www.frontendmentor.io/profile/sohanurshadhin)
-- Twitter - [@sohanurrshadhin](https://www.twitter.com/sohanurrshadhin)
+- Instagram - [@SohanurShadhinn](https://www.instagram.com/sohanurshadhin/)
+- LinkedIn - [@sohanurshadhin](https://www.linkedin.com/in/sohanurshadhin/)
+- X - [@SohanurShadhinn](https://x.com/SohanurShadhinn)
